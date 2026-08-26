@@ -175,12 +175,6 @@ The project also includes the custom JSON functionality used by some of my other
 
 ---
 
-### 📺 [Delphi IPTV](https://github.com/erdesigns-eu/Delphi-IPTV)
-
-Delphi tooling and components related to IPTV playlists and streaming.
-
----
-
 ### 🖥️ More Delphi work
 
 There are several additional Delphi experiments, components and utilities in my repositories, including custom controls, touch interfaces, media applications and assorted reusable code.
