@@ -59,11 +59,11 @@ TypeScript → Lexer/Parser → Analysis → Type Checking → Optimizer → Cod
 
 - Modern TypeScript / ECMAScript support
 - Self-hosted AOT compiler
-- Hybrid register- and stack-based bytecode VM
+- Hybrid register/stack bytecode VM
 - Generational moving garbage collector
 - Hidden classes and inline caches
 - Multi-pass optimizer
-- DAP-compatible and Native debugger
+- DAP-compatible and native debugger
 - ESP32, desktop, server and WebAssembly targets
 
 ERD-TSVM is **not open source yet**. The project is currently being developed towards its first public release, with the intention of **open-sourcing the platform in 2027**.
