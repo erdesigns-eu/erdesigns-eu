@@ -27,6 +27,7 @@ I enjoy building complete systems rather than isolated pieces: designing the arc
 
 Some of the areas I work in:
 
+* Cloud-native web applications and SaaS platforms
 * Runtime & virtual machine architecture
 * Compiler engineering
 * Embedded systems and microcontrollers
