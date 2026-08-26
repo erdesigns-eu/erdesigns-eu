@@ -81,7 +81,7 @@ Code Generator
 
 - Modern TypeScript / ECMAScript support
 - Self-hosted AOT compiler
-- Register and stack hybrid-based bytecode VM
+- Hybrid register- and stack-based bytecode VM
 - Generational moving garbage collector
 - Hidden classes and inline caches
 - Multi-pass optimizer
