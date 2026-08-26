@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build software across the stack — from virtual machines, compilers and embedded systems<br>
-  to desktop applications, developer tooling and connected hardware.
+  I build software across the stack — from cloud platforms and web applications
+  to virtual machines, compilers, embedded systems and connected hardware.
 </p>
 
 <p align="center">
