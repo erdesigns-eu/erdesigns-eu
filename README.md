@@ -108,78 +108,13 @@ In the meantime, architecture documentation, technical articles, platform inform
 
 ---
 
-# 🧰 Open-source Delphi projects
+## Open-source projects
 
-Delphi has been part of my development work for many years, and several of my libraries, components and applications are available here on GitHub.
+I maintain several open-source Delphi projects covering automotive diagnostics, hardware integration, custom VCL components and connected devices.
 
-### 🚗 [Delphi-OBD](https://github.com/erdesigns-eu/Delphi-OBD)
+Some of them are pinned below, including **Delphi-OBD**, **HID Macro Keyboard**, **Delphi Inspector** and **Philips Hue**.
 
-A comprehensive Delphi library for **OBD-II diagnostics and automotive communication**.
-
-It includes support for areas such as:
-
-* SAE J1979 OBD-II services
-* ELM327 and OBDLink adapters
-* CAN
-* DoIP
-* UDS
-* J1939
-* Legacy vehicle protocols
-* Serial, Bluetooth, WiFi and FTDI transports
-* VIN decoding
-* Diagnostic trouble codes
-* OEM-specific data
-* Automotive UI components and gauges
-
-This has grown far beyond a simple OBD reader and has become a broader automotive diagnostics framework.
-
----
-
-### ⌨️ [HID Macro Keyboard](https://github.com/erdesigns-eu/HID-Macro-Keyboard)
-
-Custom software for a programmable **USB HID macro keyboard** with 12 buttons and three rotary controls.
-
-The application allows keys and knobs to be configured with custom macros and demonstrates direct interaction with HID hardware from a Delphi desktop application.
-
----
-
-### 🔍 [Delphi Inspector](https://github.com/erdesigns-eu/Delphi-Inspector)
-
-A lightweight custom **VCL Inspector component**, inspired by property inspectors found in IDEs.
-
-Features include:
-
-* Collapsible categories
-* Inline property editors
-* Native Windows rendering
-* VCL Styles support
-
-A small project, but representative of the custom controls and tooling components I like building.
-
----
-
-### 💡 [Delphi Philips Hue](https://github.com/erdesigns-eu/Delphi-Philips-Hue)
-
-A Delphi VCL component for communicating with **Philips Hue** lighting systems.
-
-It supports functionality such as:
-
-* Hue Bridge communication
-* Device pairing
-* Light control
-* Scenes
-* Schedules
-* Local bridge access
-
-The project also includes the custom JSON functionality used by some of my other Delphi projects.
-
----
-
-### 🖥️ More Delphi work
-
-There are several additional Delphi experiments, components and utilities in my repositories, including custom controls, touch interfaces, media applications and assorted reusable code.
-
-👉 **[Browse my repositories](https://github.com/erdesigns-eu?tab=repositories)**
+👉 [Browse all repositories](https://github.com/erdesigns-eu?tab=repositories)
 
 ---
 
