@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ernst Reidinga 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer · Runtime & Compiler Engineering · Embedded Systems · Developer Tooling</strong>
+  <strong>Software Engineer · Cloud & Web · Runtime & Compiler Engineering · Embedded Systems</strong>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 I'm a software engineer from Belgium with a strong interest in understanding and building systems from the ground up.
 
-My work spans high-level application development all the way down to runtime architecture, compiler design, virtual machines, embedded systems and hardware integration.
+My work spans high-level web and cloud applications, SaaS platforms and frontend development, all the way down to runtime architecture, compiler design, virtual machines, embedded systems and hardware integration.
 
 I enjoy building complete systems rather than isolated pieces: designing the architecture, implementing the low-level foundations, creating the developer tooling around them, and making the result approachable enough for others to build upon.
 
@@ -197,6 +197,10 @@ I don't really define my work by a fixed technology stack — the technology dep
 
 `C++` · `TypeScript` · `JavaScript` · `Delphi / Object Pascal` · `C` · `WebAssembly` · `PHP` · `Python`
 
+**Web & Cloud**
+
+`SaaS` · `Web Applications` · `REST APIs` · `HTTP` · `WebSockets` · `Docker` · `Cloud Infrastructure` · `MongoDB` · `Authentication` · `Multi-tenant Applications`
+
 **Runtime & Compiler**
 
 `VM Architecture` · `Bytecode` · `AOT Compilation` · `Garbage Collection` · `Language Semantics` · `Optimization`
@@ -207,7 +211,7 @@ I don't really define my work by a fixed technology stack — the technology dep
 
 **Application Development**
 
-`Node.js` · `React` · `Vue` · `Meteor` · `VCL` · `Native Desktop`
+`Node.js` · `TypeScript` · `React` · `Vue` · `Meteor` · `VCL` · `Native Desktop`
 
 **Systems & Tooling**
 
