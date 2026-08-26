@@ -77,25 +77,16 @@ Code Generator
     └── WebAssembly
 ```
 
-### Some of the platform features
+### Highlights
 
-* TypeScript and modern ECMAScript support
-* Self-hosted TypeScript compiler
-* Ahead-of-time compilation
-* Compact register-based bytecode VM
-* Generational garbage collector
-* Hidden classes / object shapes
-* Inline caches
-* Multi-pass optimizer
-* Async/await, generators and promises
-* Standard library implemented through native runtime modules
-* DAP-compatible debugging
-* Bytecode disassembler
-* Heap snapshots
-* ESP32 hardware APIs
-* Desktop and server targets
-* WebAssembly runtime
-* OTA deployment and embedded tooling
+- Modern TypeScript / ECMAScript support
+- Self-hosted AOT compiler
+- Register and stack hybrid-based bytecode VM
+- Generational moving garbage collector
+- Hidden classes and inline caches
+- Multi-pass optimizer
+- DAP-compatible and Native debugger
+- ESP32, desktop, server and WebAssembly targets
 
 ERD-TSVM is **not open source yet**. The project is currently being developed towards its first public release, with the intention of **open-sourcing the platform in 2027**.
 
