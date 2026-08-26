@@ -47,34 +47,11 @@ One of my largest ongoing projects is **ERD-TSVM**, a complete TypeScript execut
 The goal is to make it possible to write modern TypeScript and execute the same application architecture across constrained embedded devices, desktop systems, servers and WebAssembly.
 
 ```text
-TypeScript
-    │
-    ▼
- Lexer / Parser
-    │
-    ▼
-Semantic Analysis
-    │
-    ▼
- Type Checking
-    │
-    ▼
-  Optimizer
-    │
-    ▼
-Code Generator
-    │
-    ▼
- ERD Bytecode
-    │
-    ▼
-   ERD-TSVM
-    │
-    ├── ESP32 / FreeRTOS
-    ├── Linux
-    ├── macOS
-    ├── Windows
-    └── WebAssembly
+TypeScript → Lexer/Parser → Analysis → Type Checking → Optimizer → Code Generator → Bytecode → ERD-TSVM
+                                                                                              ├─ ESP32 / FreeRTOS
+                                                                                              ├─ Linux / Server
+                                                                                              ├─ macOS / Windows
+                                                                                              └─ WebAssembly
 ```
 
 ### Highlights
