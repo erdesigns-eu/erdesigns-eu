@@ -71,8 +71,6 @@ Open-sourcing is something i am still considering, but i might open-source certa
 
 In the meantime, architecture documentation, technical articles, platform information and a working browser playground are already publicly available.
 
-👉 **[Explore ERD-TSVM](https://erdesigns.be/platform)**
-👉 **[Technical architecture](https://erdesigns.be/stack)**
 👉 **[Try the ERD-TSVM Playground](https://erdesigns.be/playground)**
 👉 **[Read the engineering journal](https://erdesigns.be/blog)**
 
@@ -82,7 +80,7 @@ In the meantime, architecture documentation, technical articles, platform inform
 
 I maintain several open-source Delphi projects covering automotive diagnostics, hardware integration, custom VCL components and connected devices.
 
-Some of them are pinned below, including **Delphi-OBD**, **HID Macro Keyboard**, **Delphi Inspector** and **Philips Hue**.
+Some of them are pinned below, including **HID Macro Keyboard**, **Delphi Inspector** and **Philips Hue**.
 
 👉 [Browse all repositories](https://github.com/erdesigns-eu?tab=repositories)
 
