@@ -66,7 +66,8 @@ TypeScript → Lexer/Parser → Analysis → Type Checking → Optimizer → Cod
 - DAP-compatible and native debugger
 - ESP32, desktop, server and WebAssembly targets
 
-ERD-TSVM is **not open source yet**. The project is currently being developed towards its first public release, with the intention of **open-sourcing the platform in 2027**.
+ERD-TSVM is **not open source**. The project is currently being developed towards its first public release, with the intention of releasing the first binaries in 2027.
+Open-sourcing is something i am still considering, but i might open-source certain parts instead of the whole platform.
 
 In the meantime, architecture documentation, technical articles, platform information and a working browser playground are already publicly available.
 
